@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Chaoxing Mouseout Force Clean
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      2.2
 // @license      Apache
 // @description  超星允许鼠标移出脚本
 // @author       Yorge-M
 // @match        *://*.mooc1.chaoxing.com/mycourse/*
 // @match        *://mooc1.chaoxing.com/mycourse/*
+// @match        *://*.mooc1-1.chaoxing.com/mycourse/*
+// @match        *://mooc1-1.chaoxing.com/mycourse/*
 // @grant        unsafeWindow
 // @run-at       document-start
 // @unwrap
